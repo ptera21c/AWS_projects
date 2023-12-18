@@ -1,2 +1,1 @@
-this is test
-this is change made from master
+I want to pull this from remote repo
